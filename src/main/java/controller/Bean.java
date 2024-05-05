@@ -8,6 +8,7 @@ import javax.faces.bean.SessionScoped;
 import javax.faces.context.FacesContext;
 
 
+@SuppressWarnings("deprecation")
 @ManagedBean
 @SessionScoped
 public class Bean {
